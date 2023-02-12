@@ -1,0 +1,5 @@
+[{ "name" : "RoomOne" },
+{ "name" : "RoomTwo" },
+{ "name" : "RoomThree", "treatmentMachine" : "MachineA" },
+{ "name" : "RoomFour", "treatmentMachine" : "MachineB" },
+{ "name" : "RoomFive", "treatmentMachine" : "MachineC" }]
