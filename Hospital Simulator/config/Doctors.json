@@ -1,3 +1,0 @@
-[{ "name" : "John", "roles" : [ "Oncologist" ] },
-{ "name" : "Anna", "roles" : [ "GeneralPractitioner" ] },
-{ "name" : "Laura", "roles" : [ "Oncologist", "GeneralPractitioner" ] }]
