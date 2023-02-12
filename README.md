@@ -1,6 +1,6 @@
 # Hospital-Simulator
 
-Ett Work in progress för mig att lära mig mer programmering.
+Ett Work in Progress för mig att bli duktigare på att skriva kod.
 
 Använder IntelliJ's UI Designer, vilket innebär att det (som jag förstått det) inte går att bygga projektet rakt av utan att själv ha IntelliJ.
 Finns dock redan byggd under /out/.
